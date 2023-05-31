@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_profile">
+
+    <fragment
+        android:id="@+id/nav_ata"
+        android:name="com.example.afinal.framents.ata"
+        android:label="Ata"
+        tools:layout="@layout/ata" />
+
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.example.afinal.framents.userfragment"
+        android:label="Profile"
+        tools:layout="@layout/activity_user_page" />
+
+    <fragment
+        android:id="@+id/nav_ana"
+        android:name="com.example.afinal.framents.ana"
+        android:label="Ana"
+        tools:layout="@layout/ana" />
+
+    <fragment
+        android:id="@+id/nav_apa"
+        android:name="com.example.afinal.framents.apa"
+        android:label="Apa"
+        tools:layout="@layout/apa" />
+
+    <fragment
+        android:id="@+id/nav_ini"
+        android:name="com.example.afinal.framents.ini"
+        android:label="Ini"
+        tools:layout="@layout/brother" />
+
+    <fragment
+        android:id="@+id/nav_karindas"
+        android:name="com.example.afinal.framents.karindas"
+        android:label="Karindas"
+        tools:layout="@layout/secondbrother" />
+</navigation>

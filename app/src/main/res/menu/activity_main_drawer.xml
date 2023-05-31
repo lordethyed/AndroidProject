@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/adam_icon"
+            android:title="@string/profile" />
+        <item
+            android:id="@+id/nav_gpa"
+            android:icon="@drawable/adam_icon"
+            android:title="@string/gpa" />
+        <item
+            android:id="@+id/nav_mom"
+            android:icon="@drawable/adam_icon"
+            android:title="@string/mom" />
+        <item
+            android:id="@+id/nav_gma"
+            android:icon="@drawable/adam_icon"
+            android:title="@string/gma" />
+        <item
+            android:id="@+id/nav_bro"
+            android:icon="@drawable/adam_icon"
+            android:title="@string/bro" />
+        <item
+            android:id="@+id/nav_secBro"
+            android:icon="@drawable/adam_icon"
+            android:title="@string/secondBro" />
+    </group>
+</menu>

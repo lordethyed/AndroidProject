@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Final</string>
+    <string name="hint_email">Пошта</string>
+    <string name="hint_password">Құпия сөз</string>
+
+    <string name="btn_login">Логин</string>
+    <string name="tv_new_user">Жаңа қолданушы? Регистрация</string>
+
+    <string name="fill" translatable="false">Толық толтырыңыз</string>
+    <string name="welcome" translatable="false">Қош келдіңіз</string>
+
+    <string name="wrong" translatable="false">Қате пошта немесе пароль</string>
+    <string name="ata">Ата</string>
+    <string name="apa">Апа</string>
+    <string name="ana">Ана</string>
+    <string name="profile">Жеке кабинет</string>
+    <string name="ini">Іні</string>
+    <string name="karindas">Қарындас</string>
+</resources>

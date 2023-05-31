@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Final</string>
+    <string name="hint_email">Почта</string>
+    <string name="hint_password">Пароль</string>
+
+    <string name="btn_login">Логин</string>
+    <string name="tv_new_user">Новый пользователь? Регистрируйся</string>
+
+    <string name="fill" translatable="false">Заполните линию</string>
+    <string name="welcome" translatable="false">Добро пожаловать</string>
+
+    <string name="wrong" translatable="false">Неверный адрес почты или пароль</string>
+    <string name="ata">Дедушка</string>
+    <string name="apa">Бабушка</string>
+    <string name="ana">Мать</string>
+    <string name="profile">Профиль</string>
+    <string name="ini">Братишка</string>
+    <string name="karindas">Сестренка</string>
+</resources>
